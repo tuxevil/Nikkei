@@ -1,0 +1,6 @@
+tabla caUsuariosTipo : agregar campo "superuser" Integer
+tabla caUsuariosTipo : definir como tipo "Identity" al campo "usuarioTipo_codigo"
+tabla caCotizacion   : agregar campo "cot_cuota" float
+
+ip multiserver: 192.168.2.30
+user: tecdev pass:jes02
